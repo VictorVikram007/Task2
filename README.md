@@ -1,4 +1,4 @@
-# Task 2: Exploratory Data Analysis (EDA) - Titanic Dataset 🚢
+# Task 2: Exploratory Data Analysis (EDA) - Titanic Dataset 
 
 ##  Objective
 To perform Exploratory Data Analysis (EDA) on the Titanic dataset using statistics and visualizations to understand patterns, trends, and relationships in the data.
