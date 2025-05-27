@@ -58,11 +58,12 @@ To perform Exploratory Data Analysis (EDA) on the Titanic dataset using descript
 | `task2-04.png` | Seaborn boxplot: Fare vs Pclass |
 | `task2-05.png` | Seaborn heatmap of correlation matrix |
 | `task2-06.png` | Pairplot of Age, Fare, Pclass, and Survived |
-| `task2-07.png` | Plotly histogram: Age Distribution |
-| `task2-08.png` | Plotly boxplot: Age by Survival |
-| `task2-09.png` | Plotly correlation heatmap |
-| `task2-10.png` | Plotly scatterplot: Fare vs Age colored by Survived |
-| `task2-11.png` | Skewness output |
+| `task2-07.png` | Skewness output |
+| `task2-08.png` | Plotly histogram: Age Distribution |
+| `task2-09.png` | Plotly boxplot: Age by Survival |
+| `task2-10.png` | Plotly correlation heatmap |
+| `task2-11.png` | Plotly scatterplot: Fare vs Age colored by Survived |
+
 
 ---
 
