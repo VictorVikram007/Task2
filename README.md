@@ -10,6 +10,7 @@ To perform Exploratory Data Analysis (EDA) on the Titanic dataset using statisti
 - Pandas
 - Matplotlib
 - Seaborn
+- plotly
 
 ---
 
